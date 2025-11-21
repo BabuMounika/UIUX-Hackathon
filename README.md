@@ -6,8 +6,10 @@ https://github.com/user-attachments/assets/0b50caa5-012e-4961-a420-340c8c3fc191
 
 
 # TAB-1:
-<img width="1876" height="1038" alt="Screenshot 2025-11-17 093451" src="https://github.com/user-attachments/assets/838bc52b-519b-4e91-b877-05df4dbace73" />
-<img width="1863" height="1019" alt="Screenshot 2025-11-17 093516" src="https://github.com/user-attachments/assets/8261f366-6c1d-4b75-8e2a-61ae09dbbec7" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/eedc317a-bca7-4c96-b7a9-4d9d6186ca13" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/798740de-91dc-4e01-947d-3478e04e27cd" />
+
+
 
 ### Overview of the FreshTrack Home Screen (Landing Page)
 The displayed screen is the Home / Landing Page of the FreshTrack application — a food-tracking and waste-reduction platform.
@@ -40,12 +42,19 @@ Both buttons support user onboarding and help users explore the app.
 
 ### 5. Feature Highlight Section
 At the bottom, three core features of the app are showcased with icons:
+
 ✔ Reduce Waste
+
 Helps users lower their household food waste through smart tracking.
+
 ✔ Expiry Alerts
+
 Sends timely reminders before ingredients expire.
+
 ✔ Smart Recipes
+
 Suggests recipes based on items that are nearing expiry.
+
 This section quickly communicates what makes the app useful and unique.
 
 ### Summary
@@ -56,7 +65,8 @@ Its goals are to:
 •	Provide intuitive navigation to core features
 •	Encourage users to start using the app immediately
 # TAB-2:
-<img width="1890" height="941" alt="Screenshot 2025-11-17 093535" src="https://github.com/user-attachments/assets/bbe61733-209f-479b-9b17-29c14c27bf14" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/58480669-ec82-453c-b0b2-4f4e00aa95b4" />
 
 ### Overview of the “Your Food Inventory” Tab – FreshTrack App
 This screen represents the Food Inventory Management tab of the FreshTrack application.
@@ -110,8 +120,8 @@ This tab is designed to:
 •	Offer smart actions such as recipe suggestions
 •	Make navigation simple and intuitive
 # TAB-3:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/19c377d4-cb12-462a-93c3-d030189062cc" />
 
-<img width="953" height="577" alt="image" src="https://github.com/user-attachments/assets/96e2a2ad-939a-488c-8916-f4e3db975411" />
 
 ### Overview of the “Recipes” Tab – FreshTrack App
 
@@ -162,15 +172,23 @@ A time icon indicates how long the recipe takes (e.g., 25 min, 30 min, 5 min).
 ### e. Action Button – “View Recipe”
 A clear green button encourages users to proceed and follow full recipe instructions.
  ## Summary of User Experience & Purpose
+ 
 This tab is designed to:
+
 ✔ Provide users with smart, personalized recipe suggestions based on pantry data
+
 ✔ Encourage food-saving behaviors by showing how many items each recipe saves
+
 ✔ Inspire quick decision-making through simple visuals and cook time indicators
+
 ✔ Help reduce food waste by motivating users to cook items nearing expiry
+
 ✔ Create a seamless, motivational experience with a clean and modern UI
+
 # TAB-4:
 
-<img width="1800" height="956" alt="Screenshot 2025-11-17 091642" src="https://github.com/user-attachments/assets/4e626411-b2d5-4d8b-8291-982730547532" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/90ef005b-3fa1-4f21-9dea-ed50f96e9270" />
+
 
 ## Overview of the “Impact” Tab – FreshTrack App
 
@@ -217,15 +235,22 @@ A dedicated progress area shows the user’s advancement toward their Waste Redu
 This section reinforces positive behavior and keeps users motivated to continue reducing waste.
  ## Summary of User Experience & Purpose
 The Impact tab provides users with:
+
 ✔ Motivational feedback on their sustainability progress
+
 ✔ Clear and meaningful metrics that relate to real-world benefits
-✔ A visually clean and uplifting layout0
+
+✔ A visually clean and uplifting layout
+
 ✔ A monthly progress bar to encourage goal completion
+
 ✔ Positive reinforcement through friendly messages
+
 Overall, this tab transforms food-saving efforts into tangible achievements, helping users stay engaged and aware of the environmental and financial benefits of using FreshTrack.
 # TAB-5:
 
-<img width="1816" height="922" alt="Screenshot 2025-11-17 091700" src="https://github.com/user-attachments/assets/bb51256e-610a-4e3a-a308-dbaac54bcc19" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e07bfc2e-93a5-4224-b47f-966b5d954cf3" />
+
 
 ## Overview of the “Tips” Tab – FreshTrack App
 
@@ -256,17 +281,29 @@ Each card contains:
 •	Green border accents to align with the app’s eco-focused identity
 4. Examples of Tips Displayed
 ## Some of the tips shown in the UI include:
+
 📌 “Store herbs in water like flowers to keep them fresh longer”
+
 📌 “Freeze overripe bananas for smoothies and baking”
+
 📌 “Use vegetable scraps to make homemade broth”
+
 📌 “Keep lettuce crisp by storing with a paper towel”
+
 📌 “Revive stale bread by sprinkling water and heating in oven”
+
 ## Summary of User Experience & Purpose
+
 The Tips tab aims to:
+
 ✔ Educate users on better food storage and usage habits
+
 ✔ Reduce food waste through quick, actionable guidance
+
 ✔ Support and extend the functionality of the pantry and recipes features
+
 ✔ Deliver easily skimmable, helpful content in a simple layout
+
 ✔ Reinforce the app’s sustainability mission
 
 
