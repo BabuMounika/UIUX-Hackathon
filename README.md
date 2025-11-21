@@ -1,4 +1,4 @@
-# UIUX-Hackathon
+# UIUX-Hackathon-FOOD WASTE REDUCER(FRESH TRACK)
 # Video link:
 
 
@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/0b50caa5-012e-4961-a420-340c8c3fc191
 
 
 
-#  Food Waste Reducer **
+#  Food Waste Reducer 
 
 ## **1. Project Title**
 
