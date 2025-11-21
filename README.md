@@ -5,6 +5,140 @@
 https://github.com/user-attachments/assets/0b50caa5-012e-4961-a420-340c8c3fc191
 
 
+
+#  Food Waste Reducer **
+
+## **1. Project Title**
+
+**FreshTrack – Food Waste Reducer Application with Smart Tracking and Community Sharing**
+
+
+## **2. Aim / Objective**
+
+The project aims to develop a mobile application that helps users reduce food waste by offering smart tracking and community-based sharing features. The app allows users to:
+
+* Log in securely to access their dashboard.
+* Add food items to track expiry and receive timely reminders.
+* Share excess food with nearby users or NGOs.
+* View community posts of people offering or requesting food.
+* Utilize a moderated text input to block inappropriate content in descriptions or posts.
+
+
+
+## **3. Tools and Technologies Used**
+
+* **Flutter:** For cross-platform mobile app development.
+* **Dart:** Programming language for Flutter.
+* **Firebase / Supabase:** User authentication, database storage, real-time updates.
+* **Geolocation & Maps API:** For locating nearby users and food sharing posts.
+* **Permission Handler:** Requesting location and camera access for scanning items.
+* **IDE:** Android Studio / VS Code.
+* **Device Emulator / Real Device:** For testing mobile functionality.
+
+
+## **4. Methodology / Procedure**
+
+### **4.1 User Interface**
+
+#### **Login Page:**
+
+* Email/username and password input fields.
+* Login button navigates to the home dashboard after validation.
+* Social sign-in options (Google, Facebook).
+
+#### **Dashboard (Front Page):**
+
+* Sidebar navigation with icons for Home, Expiring Soon, Community, and Profile.
+* Search bar for finding food items or posts.
+* Highlighted section showing items that are about to expire.
+* “Add Item” button to add food via manual entry or barcode scan.
+* Community posts section where users can scroll through available shared items.
+
+
+
+### **4.2 Food Tracking & Community Features**
+
+#### **Food Tracking Module:**
+
+* Add items with name, quantity, expiry date, and category.
+* Automatic reminders for items nearing expiry.
+* Color-coded indicators: Green (Fresh), Yellow (Expiring Soon), Red (Expired).
+
+#### **Community Sharing Module:**
+
+* Users can create posts to share leftover food.
+* Real-time listing of posts from nearby users.
+* Options to contact the poster or request the food.
+
+#### **Moderated Description Input:**
+
+* Blocks predefined inappropriate words such as *spam*, *waste*, *nonsense*, etc.
+* Ensures safe and meaningful content in community posts.
+
+
+### **4.3 Permission Handling**
+
+* Request camera permission for scanning barcodes on food items.
+* Request location permission to show nearby sharing opportunities.
+
+## **5. Code Structure**
+
+* **main.dart** : Entry point, login authentication module.
+* **dashboard.dart** : UI for home page, expiring items, and add-item button.
+* **food_tracking.dart** : Tracks food entries, reminders, and expiry logic.
+* **community_page.dart** : Contains community posts, sharing system, and text moderation.
+
+
+
+## **6. Results / Outcomes**
+
+* Successfully implemented user authentication and navigation flow.
+* Automated expiry tracking with timely notifications.
+* Community sharing feature to reduce food waste collectively.
+* Moderated input system to filter inappropriate content.
+* Dynamic UI with responsive layouts using Flutter widgets.
+* Users can add, track, and share food effectively through the app.
+
+
+
+## **7. Challenges Faced**
+
+* Implementing accurate expiry reminders and date calculations.
+* Ensuring smooth real-time updates for community posts.
+* Handling geolocation accuracy for nearby user detection.
+* Filtering banned words without disturbing user experience.
+* Designing a responsive UI across various device sizes.
+
+
+## **8. Conclusion**
+
+This project successfully demonstrates a functional food-waste-reducing application called **FreshTrack**, built using Flutter. The app allows users to track food expiry, receive reminders, and share excess food within the community. It forms a strong foundation for future development, such as:
+
+* AI-based expiry prediction.
+* Integration with local food banks.
+* Detailed analytics on user waste reduction.
+
+
+
+## **9. Future Scope**
+
+* AI-powered recognition of food items using image scanning.
+* Push notifications for food nearing expiry.
+* Advanced community features like group sharing or bulk donations.
+* Social media sharing for awareness.
+* Monetization via premium features (cloud backup, advanced analytics).
+
+
+
+## **10. References**
+
+* Flutter Documentation
+* Firebase Documentation
+* Google Maps & Geolocation API Documentation
+* Permission Handler Package Documentation
+
+
+
 # TAB-1:
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/eedc317a-bca7-4c96-b7a9-4d9d6186ca13" />
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/798740de-91dc-4e01-947d-3478e04e27cd" />
